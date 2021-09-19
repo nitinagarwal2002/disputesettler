@@ -1,0 +1,21 @@
+.column {
+  float: left;
+  width: 50%;
+}
+
+.row::after {
+  display: table;
+}
+.header{
+  font-size: 60px;
+  font-stretch:expanded;
+  font-style: italic;
+  font-family: cursive,fantasy,sans-serif;
+  color: #F9F8F5;
+}
+.banner{
+  font-size: 30px;
+  font-family: sans-serif;
+  color: #F0D603;
+
+}
